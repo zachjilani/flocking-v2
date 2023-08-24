@@ -52,7 +52,7 @@ class Vector3 {
   //limiting a vector to a certain number as to not continue gaining velocity
   limit(number) {
     var vector;
-    if(this.mag() > number) {
+    if(this.magnitude() > number) {
       vector = this.normalize().mult(new Vector3(number, number, number));
     }else {
       vector = this;
@@ -61,3 +61,5 @@ class Vector3 {
     return vector;
   }
 }
+
+module.exports = Vector3;

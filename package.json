@@ -1,0 +1,19 @@
+{
+  "name": "vector3",
+  "version": "1.0.0",
+  "description": "3d vector class",
+  "main": "vector3.js",
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachjilani/flocking-v2.git"
+  },
+  "author": "Zach Jilani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachjilani/flocking-v2/issues"
+  },
+  "homepage": "https://github.com/zachjilani/flocking-v2#readme"
+}

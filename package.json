@@ -11,6 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/zachjilani/flocking-v2.git"
   },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com/",
+    "tag": "latest"
+  },
   "author": "Zach Jilani",
   "license": "ISC",
   "bugs": {

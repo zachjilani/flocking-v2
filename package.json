@@ -4,7 +4,8 @@
   "description": "3d vector class",
   "main": "vector3.js",
   "scripts": {
-    "test": "mocha **.test.js"
+    "test": "mocha **.test.js",
+    "release": "npx semantic-release --ci"
   },
   "repository": {
     "type": "git",

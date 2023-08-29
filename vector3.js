@@ -1,7 +1,4 @@
-
-
 // code for 3d vector class here
-
 class Vector3 {
   constructor(x=0, y=0, z=0) {
 

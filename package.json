@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zachjilani/vector3.js.git"
+    "url": "git@github.com/zachjilani/vector3.js.git"
   },
   "publishConfig": {
     "access": "public",

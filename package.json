@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zachjilani/flocking-v2.git"
+    "url": "git+https://github.com/zachjilani/vector3.js.git"
   },
   "publishConfig": {
     "access": "restricted",
@@ -19,9 +19,9 @@
   "author": "Zach Jilani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zachjilani/flocking-v2/issues"
+    "url": "https://github.com/zachjilani/vector3.js.git/issues"
   },
-  "homepage": "https://github.com/zachjilani/flocking-v2#readme",
+  "homepage": "https://github.com/zachjilani/vector3.js#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^10.0.4",

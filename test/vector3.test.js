@@ -1,5 +1,8 @@
+require("module-alias/register")
+
 const expect = require('chai').expect;
-const Vector3 = require('./vector3');
+const Vector3 = require('@src/vector3');
+
 
 describe('Vector3', () => {
   it('should add two vectors correctly', () => {

@@ -4,7 +4,7 @@
   "description": "3d vector class",
   "main": "vector3.js",
   "scripts": {
-    "test": "mocha **.test.js",
+    "test": "mocha **/test/**.test.js",
     "release": "npx semantic-release --ci"
   },
   "repository": {
@@ -32,5 +32,11 @@
     "conventional-changelog-conventionalcommits": "^7.0.1",
     "mocha": "^10.2.0",
     "semantic-release": "^21.1.1"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.3"
+  },
+  "_moduleAliases": {
+    "@src": "./src"
   }
 }

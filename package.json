@@ -12,7 +12,7 @@
     "url": "git+https://github.com/zachjilani/vector3.js.git"
   },
   "publishConfig": {
-    "access": "restricted",
+    "access": "public",
     "registry": "https://npm.pkg.github.com/",
     "tag": "latest"
   },
